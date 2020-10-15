@@ -1,0 +1,6 @@
+---->
+Here are some usefull tips for shell scripting
+shell scripting :-A shell script is a computer program designed to be run by the Unix shell, a command-line interpreter.
+----->
+#! /bin/bash   -->It's good to practice to use at the start of any program
+---> How to make the file excutable -->  chmod +x <file name>
